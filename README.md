@@ -7,7 +7,7 @@
 
 <a href = "https://www.linkedin.com/in/talip-p-734707202/">LinkedIn</a>
 
-#### The technologies that I currently use :point_down:
+#### The Technologies I Currently Use:  :point_down:
 <hr/>
 <img src="https://user-images.githubusercontent.com/79923827/130371271-2a7ecfe3-4a0d-4365-a54c-1c1f51aff48a.png" align="left" width = "auto" height ="55">
 <img src="https://user-images.githubusercontent.com/79923827/130371470-0c82224a-15a7-4e27-803c-704d8ab228fc.png" align="left" width = "auto" height ="55">
