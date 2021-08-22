@@ -3,6 +3,7 @@
 - I am currently improving my programming skills.
 - You can contact me via LinkedIn
 - The technologies that I currently use :point_down:
+<img src="https://user-images.githubusercontent.com/79923827/130371470-0c82224a-15a7-4e27-803c-704d8ab228fc.png" align="left" width = "auto" height ="48">
 <img src="https://user-images.githubusercontent.com/79923827/130371262-f87a6b6e-0691-4743-ad34-28cdb9ad6978.png" align="left" width = "48" height ="48">
 <img src="https://user-images.githubusercontent.com/79923827/130371265-7ef49ff0-52af-49e4-90c7-6fcfeb226884.png" align="left" width = "48" height ="48">
 <img src="https://user-images.githubusercontent.com/79923827/130371266-1b09582e-8876-4c41-998b-9193f42a6f26.png" align="left" width = "48" height ="48">
