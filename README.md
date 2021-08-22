@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 - I am third year software engineering student.
 - I am currently improving my programming skills.
@@ -5,7 +6,7 @@
 
 #### My LinkedIn:
 
-<a href = "https://www.linkedin.com/in/talip-p-734707202/">LinkedIn</a>
+<a href = "https://www.linkedin.com/in/talip-p-734707202/"><img src="https://user-images.githubusercontent.com/79923827/130371868-235dc1bf-2867-46db-bb13-32af9d86fc9a.png" align="left" width = "auto" height ="55"></a>
 
 #### The Technologies I Currently Use:  :point_down:
 <hr/>
