@@ -8,6 +8,9 @@
 
 <a href = "https://www.linkedin.com/in/talip-p-734707202/"><img src="https://user-images.githubusercontent.com/79923827/130371868-235dc1bf-2867-46db-bb13-32af9d86fc9a.png" align="left" width = "auto" height ="40"></a>
 
+
+
+
 #### The Technologies I Currently Use:  :point_down:
 <hr/>
 <img src="https://user-images.githubusercontent.com/79923827/130371271-2a7ecfe3-4a0d-4365-a54c-1c1f51aff48a.png" align="left" width = "auto" height ="55">
