@@ -3,7 +3,7 @@
 - I am currently improving my programming skills.
 - You can contact me via LinkedIn
 - The technologies that I currently use :point_down:
-![100px-HTML5_logo_and_wordmark svg](https://user-images.githubusercontent.com/79923827/130371262-f87a6b6e-0691-4743-ad34-28cdb9ad6978.png)
+![image](https://user-images.githubusercontent.com/79923827/130371262-f87a6b6e-0691-4743-ad34-28cdb9ad6978.png)
 ![1200px-Java_Logo svg](https://user-images.githubusercontent.com/79923827/130371265-7ef49ff0-52af-49e4-90c7-6fcfeb226884.png)
 ![1200px-PHP-logo svg](https://user-images.githubusercontent.com/79923827/130371266-1b09582e-8876-4c41-998b-9193f42a6f26.png)
 ![1200px-Postgresql_elephant svg](https://user-images.githubusercontent.com/79923827/130371268-47282761-a814-4179-819e-7261739a4e3a.png)
