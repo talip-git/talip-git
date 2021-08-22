@@ -17,5 +17,6 @@
 <img src="https://user-images.githubusercontent.com/79923827/130371595-5e47098f-cca5-4884-a368-cb686f91324e.png" align="left" width = "auto" height ="55">
 
 <hr/>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinap-git)](https://github.com/anuraghazra/github-readme-stats)
 
