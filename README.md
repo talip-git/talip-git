@@ -22,4 +22,4 @@
 <img src="https://user-images.githubusercontent.com/79923827/130371284-0c5bfdf2-7f86-4b1d-9a4c-11ee373344cc.png" align="left" width = "auto" height ="55">
 <img src="https://user-images.githubusercontent.com/79923827/130371262-f87a6b6e-0691-4743-ad34-28cdb9ad6978.png" align="left" width = "auto" height ="55">
 <img src="https://user-images.githubusercontent.com/79923827/130371595-5e47098f-cca5-4884-a368-cb686f91324e.png" align="left" width = "auto" height ="55">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" align="left" width = "auto" height ="55"><br>
+<img src="https://unity.com/logo-unity-web.png" align="left" width = "auto" height ="55"><br>
