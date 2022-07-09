@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋
-- I am fourth year software engineering student.
+- I am a new graduate software engineer.
 - I am currently improving my programming skills.
 - You can contact me via LinkedIn
 
